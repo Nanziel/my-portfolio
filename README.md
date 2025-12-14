@@ -68,3 +68,5 @@ my-portfolio/
 │   └── 📄 style.css   # Main stylesheet
 ├── 📁 images/         # Assets folder
 └── 📄 README.md       # Project documentation
+
+Still... it's under developing. Seek another repositories to see the done repository
